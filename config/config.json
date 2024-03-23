@@ -1,0 +1,10 @@
+{
+    "HTTP": {
+		"PORT": 8080,
+		"TIMEOUT": 10000
+    },
+    "SERVICENAME": "FAMILY_TREE",
+	"MONGO": {
+		"URL": "mongodb://localhost:27017/familytree"
+	}
+}
